@@ -1,0 +1,36 @@
+{
+  "pantryItems": [],
+  "groceryLists": [],
+  "groceryItems": [
+    {
+      "id": "4fed4641-eb3d-442b-aa26-6c916a39173a",
+      "itemName": "Ice Cream",
+      "itemCount": "2",
+      "itemPrice": "2.99"
+    },
+    {
+      "id": "0394240f-0081-4fb7-815c-8d51dce01088",
+      "itemName": "Grapes",
+      "itemCount": "1",
+      "itemPrice": "1.99"
+    },
+    {
+      "id": "7d53f43b-cd57-467d-8376-30d56dda4198",
+      "itemName": "Coffee",
+      "itemCount": "2",
+      "itemPrice": "2.99"
+    },
+    {
+      "id": "c514ab87-e7f0-4e86-acbb-b6aad02de79f",
+      "itemName": "Apples",
+      "itemCount": "3",
+      "itemPrice": ".49"
+    },
+    {
+      "id": "9e3c0835-905e-4d86-b9b7-60a8deb7658c",
+      "itemName": "Red Bull",
+      "itemCount": "12",
+      "itemPrice": "2.99"
+    }
+  ]
+}
